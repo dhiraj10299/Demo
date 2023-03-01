@@ -1,2 +1,2 @@
-# java
-java basic
+class public
+voidmain 
